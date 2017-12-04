@@ -1,7 +1,7 @@
 # soap-php
 Soap Web Servis Php 7.0.23 wamp server
 <br>
-info@ofkeyazilin.com
+<a href="mailto:info@ofkeyazilin.com">info@ofkeyazilin.com</a>
 
 <h2>PROJE HAKKINDA</h2>
 Proje Netbeans derleyicisi kullanılarak local windows makinası üzerine kurulmuş olan wamp server üzerinde kodlanmıştır. Projede Nusoap kütüphanesi kullanılarak <strong>Soap</strong> web servis işlemleri Php ile gerçekleştirilmiştir.

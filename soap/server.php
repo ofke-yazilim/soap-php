@@ -16,8 +16,8 @@ if(!isset($HTTP_RAW_POST_DATA)){
 class server {
     public $authenticate = false;
     public function __construct() {
-     	  //Kullanıcı adı ve şifre doğrumu kontrol ediliyor.
-		      self::authenticate();
+        //Kullanıcı adı ve şifre doğrumu kontrol ediliyor.
+      	self::authenticate();
         //Örenğin veritabanı bağlantıları bu kısımda yapılmalıdır.
     }
     

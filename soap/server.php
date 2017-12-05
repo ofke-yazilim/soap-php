@@ -44,7 +44,7 @@ class server {
         if(isset($_SERVER['PHP_AUTH_USER']) and isset($_SERVER['PHP_AUTH_PW']) )
         {
             //Kullanıcı adı omer ve password kesmez ise 
-            if($_SERVER['PHP_AUTH_USER']=="omer" and $_SERVER['PHP_AUTH_PW']="kesmez" ){
+            if($_SERVER['PHP_AUTH_USER']=="omer" and $_SERVER['PHP_AUTH_PW']=="kesmez" ){
                 return true;
             } else{
                 return  false;   

@@ -13,7 +13,7 @@ Proje Netbeans derleyicisi kullanılarak local windows makinası üzerine kurulm
 <strong>Client Makina Üzerinde Client class fonksiyonlarını çağırmak için : </strong> https://github.com/ofke-yazilim/soap-php/blob/master/soap/index.php
 <br>
 <h2>Gönderilen Bir Xml Örneği</h2>
-<span><?xml version="1.0" encoding="utf-8"?>
+?xml version="1.0" encoding="utf-8"?>
 <soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="urn:soapservice">
     <soap:Header>
         <tns:AuthHeader>
@@ -29,4 +29,4 @@ Proje Netbeans derleyicisi kullanılarak local windows makinası üzerine kurulm
       </data>
     </tns:__getDataAll>
   </soap:Body>
-</soap:Envelope></span>
+</soap:Envelope

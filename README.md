@@ -1,4 +1,5 @@
 # soap-php
+Güncel v2 kütüphaneis bağlantı adresi : <a href='https://github.com/ofke-yazilim/php-soap-v2'>https://github.com/ofke-yazilim/php-soap-v2</a><br><br>
 Soap Web Servis Php 7.0.23 wamp server
 <br>
 <a href="mailto:info@ofkeyazilin.com">info@ofkeyazilin.com</a>
